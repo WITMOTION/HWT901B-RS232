@@ -1,4 +1,4 @@
-# HWT905-RS232
+# HWT901B-RS232
 Developed tutorial: providing manual, datasheet, free software for Windows computer
 
 RELEASE NOTES
@@ -18,17 +18,17 @@ Unzip the .zip file and you will have a directory containing the files.
 Document download link:
 
 Github 
-https://github.com/WITMOTION/HWT905-RS232
+https://github.com/WITMOTION/HWT901B-RS232
 
 Google Drive: 
-https://drive.google.com/open?id=1s-7NIhHXFyLhF8TmCFdrVPz80SwS3C1i
+https://drive.google.com/open?id=1JgY4j8kC0Vqve5jGnU3jBkmbwnkqwVmI
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-HWT905-RS232 Playlist: 
-https://www.youtube.com/watch?v=yDCIK_ZQ0DE&list=PL43tdDrVL_VCsp1aKVWzthXqZ-YcdOi-V
+HWT901B-RS232 Playlist: 
+https://www.youtube.com/watch?v=NWuTpxJJPwE&list=PL43tdDrVL_VCVEY-LThooioVYecjPEfNh
 
 -----------
 After-sale Service& Technical Support: 
